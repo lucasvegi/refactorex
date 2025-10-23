@@ -6,6 +6,10 @@ With RefactorEx, you can perform common refactorings like extracting functions, 
 
 You can check all supported editors in our [installation guide](INSTALLATION.md).
 
+To learn more about how RefactorEx was built, read our paper published at SE4FP 2025:
+
+> Gabriel Pereira, Lucas Vegi, and Vladimir Di Iorio. 2025. **Building Refactoring Tools: Insights from RefactorEx**. In *Proceedings of the 1st Workshop on Software Engineering for Functional Programming (SE4FP)*, September 23, 2025, Recife/PE, Brazil. SBC, Porto Alegre, Brazil, 9-14. DOI: [https://doi.org/10.5753/se4fp.2025.13088](https://doi.org/10.5753/se4fp.2025.13088).
+
 ![Example](assets/examples/demo.gif?raw=true)
 
 ## Available refactorings
